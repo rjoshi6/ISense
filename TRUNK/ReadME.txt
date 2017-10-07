@@ -1,0 +1,1 @@
+Trunk folder maintains actual working code. Please refer to this document for further details about naming conventions and checkin rules. 
