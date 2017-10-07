@@ -1,0 +1,1 @@
+Refer to this folder about documentation of ISense. Every new module added to the project must have both inline and external documentation. 
